@@ -1,5 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently Studying B. Tech in Computer Science and Engineering(IoT)<br>🌱 I’m currently learning Full Stack and DSA<br>
+🎓 I’m currently pursuing **B.Tech in Computer Science & Engineering (IoT)**  
+💻 Actively learning **Full Stack Development & Data Structures and Algorithms**  
+🚀 Passionate about building **real-world, scalable, and intelligent systems**
+
+I enjoy solving problems, working on hands-on projects, and collaborating in hackathons and technical events.
+My focus is on writing clean, efficient code and continuously improving my engineering skills.
+
+## 🎯 Current Goals
+
+- 📘 Master **DSA & competitive problem solving**
+- 🌍 Build **production-ready full stack projects**
+- 🤖 Explore **AI & ML-based applications**
+- 📡 Develop **smart IoT systems**
 
 
 ## 🌐 Socials:
